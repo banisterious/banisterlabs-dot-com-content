@@ -1,0 +1,9 @@
+/* Underline all links */
+a {
+    text-decoration: underline;
+}
+
+/* Optional: Style links in article content specifically */
+.article-content a {
+    text-decoration: underline;
+}
